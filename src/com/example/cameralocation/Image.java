@@ -7,6 +7,10 @@ public class Image {
     String latitude;
     String longitude;
 
+    public Image(){
+
+    }
+    
     public Image(String filepath, String newLatitude, String newLongitude){
         this.filepath = filepath;
         this.latitude = newLatitude;

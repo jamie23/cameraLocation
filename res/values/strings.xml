@@ -9,5 +9,7 @@
     <string name="title_activity_display_photos">Display Photos</string>
     <string name="name">Name:</string>
     <string name="distance">Distance:</string>
+    <string name="fileNames">Filenames:</string>
+	<string name="update">Update</string>
     
 </resources>
